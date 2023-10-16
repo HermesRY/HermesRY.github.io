@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aiot.ie.cuhk.edu.hk/glxing# the base hostname & protocol for your site/glxing/sitemap.xml

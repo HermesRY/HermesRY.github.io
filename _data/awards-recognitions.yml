@@ -1,0 +1,94 @@
+- title: Awards & Recognitions
+  type: time_table
+  contents:
+
+    - title: MobiCom 2023 Best Community Contribution Award
+      year: 2023
+      description:
+        "VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving, The 29th Annual International Conference on Mobile Computing and Networking (MobiCom)"
+
+    - title: MobiSys 2023 Best Paper Award
+      year: 2023
+      description:
+        "Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation, The 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)"
+
+    - title: SenSys 2022 Best Poster Award
+      year: 2022
+      description:
+        "Aaron: Compile-time Kernel Adaptation for Multi-DNN Inference Acceleration on Edge GPU, The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+
+    - title: SenSys 2022 Best Paper Finalist
+      year: 2022
+      description:
+        "BlastNet: Exploiting Duo-Blocks for Cross-Processor Real-Time DNN Inference, The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+
+    - title: MobiCom 2022 Best Paper Award Runner-Up
+      year: 2022
+      description:
+        "VIPS: Real-Time Perception Fusion for Infrastructure-Assisted Autonomous Driving, The 28th Annual International Conference on Mobile Computing and Networking (MobiCom)"
+
+    - title: IoTDI 2021 Best Student Paper Award
+      year: 2021
+      description:
+        "milliEye: A Lightweight mmWave Radar and Camera Fusion System for Robust Object Detection, IEEE/ACM Sixth International Conference on Internet-of-Things Design and Implementation (IoTDI)"
+
+    - title: IoTDI 2020 Best Paper Candidate  
+      year: 2020
+      description:
+        "QID: Identifying Mobile Devices via Wireless Charging Fingerprints, IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation (IoTDI)"
+
+    - title: EWSN 2019 Best Demo Award
+      year: 2019
+      description:
+        "Demo: Mobile Device Identification via Wireless Charging Fingerprints, International Conference on Embedded Wireless Systems and Networks (EWSN)"
+
+    - title: MobiCom 2015 Best Mobile Application, Silver Award
+      year: 2015
+      description:
+        "SPOT - a smartphone-based platform to tackle heterogeneity in smart-home systems, The Third Mobile App Competition, the 21st International Conference on Mobile Computing and Networking (MobiCom)"
+
+    - title: MobiCom 2014 Best Mobile Application, Third Place
+      year: 2014
+      description:
+        "iBreath: A Smartphone Application for Breathing Monitoring during Running, The Second Mobile App Competition, 20th Annual International Conference on Mobile Computing and Networking (MobiCom) "
+
+    - title: Withrow Distinguished Scholar Award
+      year: 2014
+      description:
+        - College of Engineering, MSU
+
+    - title: IPSN 2014 Best Paper Finalist
+      year: 2014
+      description:
+        "Aquatic Debris Monitoring Using Smartphone-Based Robotic Sensors, The 13th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: PerCom 2013 Mark Weiser Best Paper Award Runner-up
+      year: 2013
+      description:
+        "Supero: A Sensor System for Unsupervised Residential Power Usage Monitoring, The 11th IEEE International Conference on Pervasive Computing and Communications (PerCom)"
+
+    - title: IPSN 2013 Best Paper Award
+      year: 2013
+      description:
+        "Nemo: A High-fidelity Noninvasive Power Meter System for Wireless Sensor Networks, The 12th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: MobiCom 2013 Best Mobile Application, Third Place
+      year: 2013
+      description:
+        "iSleep: A Smartphone Application for Unobtrusive Sleep Quality Monitoring, The First Mobile App Competition, 19th Annual International Conference on Mobile Computing and Networking (MobiCom)"
+        
+    - title: ICNP 2010 Best Paper Award
+      year: 2010
+      description:
+        "Beyond Co-existence: Exploiting WiFi White Space for ZigBee Performance Assurance, The 18th IEEE International Conference on Network Protocols (ICNP)"
+
+    - title: ICNP 2010 Best Paper Finalist
+      year: 2010
+      description:
+        "Passive Interference Measurement in Wireless Sensor Networks, The 18th IEEE International Conference on Network Protocols (ICNP)"
+
+    - title: PerCom 2010 Mark Weiser Best Paper Award Runner-up
+      year: 2010
+      description:
+        "Negotiate Power and Performance in the Reality of RFID Systems, The 8th Annual IEEE International Conference on Pervasive Computing and Communications (PerCom)"
+

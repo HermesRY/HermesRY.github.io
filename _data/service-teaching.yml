@@ -1,0 +1,273 @@
+
+- title: Conference Chairing
+  type: time_table
+  contents:
+    - title: General Co-Chair
+      year: 2024
+      description:
+       - "Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT-Week)"
+
+    - title: Director
+      year: 2023
+      description:
+       - "Croucher Advanced Study Institutes (Croucher ASI), AI for Internet of Things"
+
+    - title: Program Committee Co-Chair
+      year: 2019, 2022
+      description:
+       - "SIGBED China - Embedded AI Summit, China"
+
+    - title: Steering Committee
+      year: 2022-Present
+      description:
+       - "ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+
+    - title: Program Committee Co-Chair
+      year: 2022
+      description:
+       - "ACM Conference on Embedded Networked Sensor Systems (SenSys), USA"
+
+    - title: Vice Chairman
+      year: 2021-Present
+      description:
+       - "ACM SIGBED - Special Interest Group on Embedded Systems (China chapter)"
+
+    - title: Program Co-Chair 
+      year: 2021
+      description:
+       - "International Conference on Embedded Wireless Systems and Networks (EWSN)"
+
+    - title: Program Committee Co-Chair
+      year: 2021
+      description:
+       - "The Sixth IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), USA"
+
+    - title: Program Committee Co-Chair
+      year: 2019
+      description:
+       - "International Conference on Mobile Ad-hoc and Sensor Networks (MSN 2019),  China"
+
+    - title: Program Committee Co-Chair
+      year: 2019
+      description:
+       - "The 5th International Conference on. Big Data Computing and Communications (BigCom)"
+
+    - title: General Co-Chair
+      year: 2018
+      description: 
+       - "International Conference on Embedded Wireless Systems and Networks (EWSN), China"
+
+    - title: Technical Program Committee Co-Chair
+      year: 2017
+      description:
+       - "The 16th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: Demo Co-Chair
+      year: 2017
+      description:
+       - "The IEEE International Conference on Pervasive Computing and Communications (PerCom)"
+
+    - title: General Chair
+      year: 2016
+      description:
+       - "The 15th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: Demo Chair
+      year: 2015
+      description:
+       - "Cyber-Physical Systems Week"
+
+    - title: Demo Co-Chair
+      year: 2015
+      description:
+       - "The 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: Technical Program Committee Chair
+      year: 2012
+      description:
+       - "Wireless Sensor Networks Track, IEEE Real-Time Systems Symposium"
+
+    - title: Poster Chair
+      year: 2012
+      description:
+       - "ACM/IEEE Third International Conference on Cyber-Physical Systems (ICCPS)"
+
+    - title: Poster Co-chair
+      year: 2010
+      description:
+       - "The 18th IEEE International Workshop on Quality of Service (IWQoS)"
+
+    - title: Demo/Poster Co-chair
+      year: 2009
+      description:
+       - "The 15th IEEE Real-Time and Embedded Technology and Applications Symposium (IEEE RTAS)"
+
+    - title: Technical Program Committee Co-chair
+      year: 2009
+      description:
+       - "The Sixth Workshop on Wireless Ad hoc and Sensor Networks (WWASN) 2009, in conjunction with ICDCS 2009"
+
+    - title: Technical Program Committee Co-chair
+      year: 2008
+      description:
+       - "The First ACM International Workshop on Integrated Heterogeneous Sensor Networks (HeterSenet) 2008, in conjunction with MobiHoc 2008"
+
+    - title: Technical Program Committee Co-chair
+      year: 2008
+      description:
+       - "The Fifth Workshop on Wireless Ad hoc and Sensor Networks (WWASN) 2008, in conjunction with ICDCS 2008"
+
+
+- title: Journal Editorship
+  type: time_table
+  contents:
+    - title: Editor
+      year: 2023-present
+      description: ACM Transactions on Computing for Healthcare (HEALTH)
+
+    - title: Associate Editor
+      year: 2020-present
+      description: IEEE Transactions on Network Science and Engineering
+
+    - title: Associate Editor
+      year: 2018-present
+      description: Journal of Computer Science and Technology (JCST)
+
+    - title: Associate Editor
+      year: 2016-present
+      description: ACM Transactions on Sensor Networks (TOSN)
+
+
+    - title: Editorial Board
+      year: 2012-present
+      description: ACM Transactions on Sensor Networks (TOSN)
+
+    - title: Editorial Board
+      year: 2012-2015
+      description: IEEE Transactions on Wireless Communications (TWC)
+
+    - title: Editorial Board
+      year: 2012-2015
+      description: International Journal of Parallel, Emergent and Distributed Systems
+
+    - title: Editorial Board
+      year: 2008-2012
+      description: Adhoc & Sensor Wireless Networks
+
+- title: "Selected Technical Program Committee Membership"
+  type: time_table_membership
+  contents:
+    - title: Technical Program Committee
+      year: 2012, 2013, 2014, 2015, 2016, 2019, 2023
+      description:
+       - "ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)"
+
+    - title: Technical Program Committee
+      year: 2014, 2021, 2023
+      description:
+       - "The ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+
+    - title: Program Committee member and reviewer
+      year: 2014, 2021, 2022
+      description:
+       - "The Annual International Conference On Mobile Computing And Networking (MobiCom)"
+
+    - title: Technical Program Committee
+      year: 2010, 2012, 2014, 2015, 2018, 2021
+      description:
+       - "The IEEE Conference on Computer Communications (INFOCOM)"
+
+    - title: Technical Program Committee
+      year: 2014, 2015, 2018, 2022, 2023
+      description:
+       - "The ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)"
+
+    - title: Technical Program Committee
+      year: 2019, 2021
+      description:
+       - "ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)"
+
+    - title: Technical Program Committee
+      year: 2010, 2011, 2014, 2019
+      description:
+       - "International Conference on Distributed Computing Systems (ICDCS)"
+
+    - title: Technical Program Committee
+      year: 2012, 2014, 2017
+      description:
+       - "The IEEE International Conference on Pervasive Computing and Communications (PerCom)"
+
+    - title: Technical Program Committee
+      year: 2014, 2015, 2016
+      description:
+       - "The 3rd ACM Workshop on Visible Light Communication Systems (VLCS)"
+
+    - title: Technical Program Committee
+      year: 2008, 2009, 2010, 2014
+      description:
+       - "IEEE Real-Time Systems Symposium (RTSS) , the Sensor Networks and Applications Track"
+
+    - title: Technical Program Committee
+      year: 2010, 2014
+      description:
+       - "International Conference on Parallel Processing (ICPP)"
+
+    - title: Technical Program Committee
+      year: 2008, 2012
+      description:
+       - "The 13th international Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)"
+
+    - title: Technical Program Committee
+      year: 2020
+      description:
+       - "IFIP Networking, France"
+
+    - title: Technical Program Committee
+      year: 2019
+      description:
+       - "IEEE ICII (IEEE International Conference on Industrial Internet), United States of America"
+
+    - title: Technical Program Committee
+      year: 2019
+      description:
+       - "IEEE International Conference on Fog Computing (ICFC2019), United States of America"
+
+    - title: Technical Program Committee
+      year: 2016
+      description:
+       - "The 8th EAI International Conference on Mobile Computing, Applications and Services (MobiCASE)"
+
+    - title: Technical Program Committee
+      year: 2016
+      description:
+       - "The 17th Workshop on Mobile Computing Systems and Applications (ACM HotMobile)"
+
+    - title: Technical Program Committee
+      year: 2015
+      description:
+       - "IEEE 1st International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
+
+    - title: Technical Program Committee
+      year: 2014
+      description:
+       - "The 11th IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS)"
+
+    - title: Technical Program Committee
+      year: 2013
+      description:
+       - "The 4th ACM/IEEE 4th International Conference on Cyber-Physical Systems (ICCPS)"
+
+    - title: Technical Program Committee
+      year: 2010, 2011, 2012
+      description:
+       - "The 17th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)"
+
+    - title: Technical Program Committee
+      year: 2010
+      description:
+       - "The 18th IEEE International Workshop on Quality of Service (IWQoS)"
+
+    - title: Technical Program Committee
+      year: 2008
+      description:
+       - "The 11th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)"

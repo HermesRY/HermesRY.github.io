@@ -1,0 +1,112 @@
+
+- title: Funding
+  type: time_table
+  contents:
+
+    - title: RGC General Research Fund
+      year: 2024-2027
+      description:
+         "RTNet: A Holistic Real-Time Framework for Concurrent DNN Inference on Edge Platforms, PI"
+
+    - title: RGC General Research Fund
+      year: 2023-2026
+      description:
+         "VI-Drive: An Edge System for Real-Time Cooperative Perception in Infrast ructure-assisted Autonomous Driving, PI"
+
+    - title: Collaborative Research Fund
+      year: 2022-2025
+      description:
+         "High-precision and Privacy-preserving Indoor Social Contact Tracking Technologies for Infectious Disease Transmission Modeling and Control, PI"
+
+    - title: Collaborative Research Fund
+      year: 2022-2025
+      description:
+         "Small Data Learning for Alzheimer's Disease: From Digital Biomarker to Personalized Intervention, PI"
+
+    - title: RGC General Research Fund
+      year: 2022-2024
+      description:
+         "Demystifying Performance of City-scale NB-IoT Networks: System, Measurem ent, and Optimization, PI"
+
+    - title: RGC General Research Fund
+      year: 2021-2023
+      description:
+         "HomeSense: A Pervasive System for Home Activity Recognition via Federated Learning, PI"
+
+    - title: Alzheimer's Drug Discovery Foundation
+      year: 2020-2024
+      description:
+         "Alzheimer's Drug Discovery Foundation - Machine Learning Technologies for Advancing Digital Biomarkers for Alzheimer's Disease, PI"
+
+    - title: Innovation and Technology Fund
+      year: 2020-2023
+      description:
+         "An Integrated Cloud-Edge-Device Computing System for Performance-Critical Industrial Application, PI"
+
+    - title: Innovation and Technology Fund
+      year: 2020-2022
+      description:
+         "Real-Time Fog Computing Technologies for Next Generation Smart Lampposts, PI"
+
+    - title: RGC General Research Fund
+      year: 2019-2022
+      description:
+         "Real-Time Respiration Monitoring and Feedback using Commodity Mobile Devices, PI"
+
+    - title: National Science Foundation
+      year: 2016-2020
+      description:
+         "SCH: INT: Collaborative Research: Unobtrusive sensing and motivational feedback for family wellness, PI"
+
+    - title: National Science Foundation
+      year: 2014-2018
+      description:
+         "CPS: Synergy: A Design Framework for Coupled Robotic and Biological Systems with Application to Fish Movement Ecology, Co-PI"
+
+    - title: National Science Foundation
+      year: 2014-2017
+      description:
+         "NeTS: Small: SOAR: Leveraging Traffic Signatures to Improve Performance of Vehicular Networks, PI"
+
+    - title: National Science Foundation
+      year: 2014-2017
+      description:
+         "NeTS: Small: Collaborative Research:Realizing visual and acoustic near field communication systems for smartphones: performance optimization, PI"
+
+    - title: National Science Foundation
+      year: 2013-2016
+      description:
+         "CyberSEES: Type 2: Towards Sustainable Aquatic Ecosystems: A New Adaptive Sampling and Data-Enabled Monitoring and Modeling Framework, Co-PI"
+
+    - title: National Science Foundation
+      year: 2012-2015
+      description:
+         "CSR: Collaborative Research: Integrated Control of Fidelity and Real-Time Performance in Networked Sensing Systems, PI"
+
+    - title: National Science Foundation
+      year: 2011-2016
+      description:
+         "CDI: Collaborative Research: VolcanoSRI: 4D Volcano Tomography in a Large-Scale Sensor Network, PI"
+
+    - title: National Science Foundation
+      year: 2010-2013
+      description:
+         "IHCS: Exploiting Mobility-Assisted Collaboration for Adaptive Aquatic Sensor Networks, PI"
+
+    - title: National Science Foundation
+      year: 2010-2016
+      description:
+         "CAREER: Design and Analysis of Performance-Critical Wireless Sensor Networks: A Fusion-Centric Approach, PI"
+        
+    - title: National Science Foundation
+      year: 2009-2013
+      description:
+         "NeTS: Holistic Transparent Performance Assurance in the Crowded Spectrum, PI"
+
+    - title: Competitive Earmarked Research Grant (CERG) of HK
+      year: 2008-2011
+      description:
+        PI (withdrawn due to the leave of PI)
+
+    - title: Competitive Earmarked Research Grant (CERG) of HK
+      year: 2007-2009
