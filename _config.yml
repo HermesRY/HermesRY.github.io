@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Guoliang
+first_name: Heming
 middle_name: 
-last_name: Xing
+last_name: Fu
 email: glxing@cuhk.edu.hk
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -18,8 +18,8 @@ email: glxing@cuhk.edu.hk
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: aiot_logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://staff.ie.cuhk.edu.hk/~glxing# the base hostname & protocol for your site
-baseurl: /~glxing # the subpath of your site, e.g. /blog/
+url: HermesRY.github.io the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
