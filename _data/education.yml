@@ -1,31 +1,25 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: D.Sc. Computer Science & Engineering
-      institution: Washington Univ. in St. Louis, St. Louis, MO
-      year: 2006
+    - title: M.S. Information Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2021-2022
 
-    - title: M.S. Computer Science & Engineering
-      institution: Washington Univ. in St. Louis, St. Louis, MO
-      year: 2003
+    - title: B.E. Information Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2017-2021
+      description:
+        - Major in Information Engineering
+        - Minor in Computer Science
 
-    - title: M.S. Computer Science & Technology
-      institution: Xi'an JiaoTong University, Xi'an, China
-      year: 2003
+    - title: Summer Exchange
+      institution: University of California, Berkeley
+      year: 2019
 
-    - title: B.S. Electrical Engineering
-      institution: Xi'an JiaoTong University, Xi'an, China
-      year: 1998
+    - title: Summer Exchange
+      institution: Peking University, China
+      year: 2018
 
 # - title: Funding
 #   type: time_table
