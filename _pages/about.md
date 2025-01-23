@@ -6,7 +6,7 @@ subtitle:
 title_2:
 title_3: 
 institution: 
-email: hemingfu@link.cuhk.edu.hk
+email: heming.fu@stonybrook.edu
 address:
 
 profile:
