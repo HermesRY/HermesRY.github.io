@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by <a href="https://www.sigmobile.org/mobicom/2024/" style="font-weight: 500;">MobiCom 2024!</a>
+[One paper](https://dl.acm.org/doi/abs/10.1145/3636534.3649370) accepted by <a href="https://www.sigmobile.org/mobicom/2024/" style="font-weight: 500;">MobiCom 2024!</a>
