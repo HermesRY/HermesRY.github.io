@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Heming
 middle_name: 
 last_name: Fu
-email: hemingfu@link.cuhk.edu.hk
+email: heming.fu@stonybrook.edu
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
@@ -16,7 +16,7 @@ email: hemingfu@link.cuhk.edu.hk
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: aiot_logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: sbu_logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hermesry.github.io
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -77,7 +77,7 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: jXtS6LsAAAAJ
+scholar_userid: bn9_P0IAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-2221-0143
