@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a>Two workshop papers</a> accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/" style="font-weight: 500;">SIGMETRICS 2025</a>!
+<a>Two workshop papers</a> accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/" style="font-weight: 500;">SIGMETRICS 2025!</a>
