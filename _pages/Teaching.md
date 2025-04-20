@@ -6,8 +6,8 @@ nav: true
 nav_order: 3
 ---
 
-<h3>
-  <img src="/assets/img/sbu_logo.svg" alt="SBU Logo" width="36" style="vertical-align: middle; margin-right: 10px;" />
+<h3 style="display: flex; align-items: center; gap: 14px; margin-top: 1rem;">
+  <img src="/assets/img/sbu_logo.svg" alt="SBU Logo" width="48" />
   Stony Brook University
 </h3>
 
