@@ -2,7 +2,7 @@
 layout: project
 permalink: /project/
 title: Project
-nav: true
+nav: false
 nav_order: 5
 ---
 <!-- _pages/publications.md -->
