@@ -5,7 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<span>
-Received <a href="https://sigbed.org/category/travel-grants/" target="_blank" style="font-weight: 700; text-transform: uppercase; color: black;">SIGBED Student Travel Award</a> from 
-<a href="https://cps-iot-week2025.ics.uci.edu/" target="_blank" style="font-weight: 700; text-transform: uppercase; color: black;">CPS-IoT Week 2025</a> (10 out of 111)!
-</span>
+<a href="https://sigbed.org/category/travel-grants/" style="font-weight: 500; color: black;">SIGBED Student Travel Award</a> received from 
+<a href="https://cps-iot-week2025.ics.uci.edu/" style="font-weight: 500;">CPS-IoT Week 2025</a> (10 out of 111)!
