@@ -27,4 +27,4 @@ nav_order: 3
   Teaching Assistant, **Spring 2025**
 
 - **ESE 280 - Embedded Microcontroller Systems Design I**  
-  Teaching Assistant, **Fall 2024**
+  Teaching Assistant, **Fall 2024, Fall 2025**
