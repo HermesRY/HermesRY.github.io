@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2504.11569" style="font-weight: 500; color: black;">Two workshop papers</a> accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/" style="font-weight: 500;">SIGMETRICS 2025</a>!
+Two workshop papers (<a href="https://dl.acm.org/doi/abs/10.1145/3764944.3764953" style="font-weight: 500; color: black;">MurmuRL</a>, 
+<a href="https://dl.acm.org/doi/abs/10.1145/3764944.3764947" style="font-weight: 500; color: black;">MALLM</a>) accepted by 
+<a href="https://www.sigmetrics.org/sigmetrics2025/" style="font-weight: 500;">SIGMETRICS 2025</a>!
