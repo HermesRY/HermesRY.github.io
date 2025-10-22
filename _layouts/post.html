@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 ---
 <!-- _layouts/post.html -->
@@ -35,29 +35,20 @@ layout: default
           <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
           {% endfor -%}
       {% endif %}
-
     </p>
   </header>
 
   <article class="post-content">
-    {% if page.toc and page.toc.beginning %}
-    <div id="table-of-contents">
-      {% toc %}
-    </div>
-    <hr>
-    {% endif %}
+    {%- comment -%}
+    如果想显示目录，请在文章 Markdown 中加入：
+        * TOC
+        {:toc}
+    Kramdown 的 {:toc} 只能在 Markdown 内生效，layout 里无法生成。
+    {%- endcomment -%}
     <div id="markdown-content">
       {{ content }}
     </div>
   </article>
-
-  <!-- {%- if page.related_publications != null and page.related_publications.size > 0 -%}
-  {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
-  <h2>References</h2>
-  <div class="publications">
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
-  </div>
-  {%- endif %} -->
 
   {%- if site.related_blog_posts.enabled -%}
     {%- if page.related_posts == null or page.related_posts -%}
