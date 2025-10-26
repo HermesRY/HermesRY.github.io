@@ -230,7 +230,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-toc
+  # - jekyll-toc  # Temporarily disabled for GitHub Pages compatibility
   - jekyll-twitter-plugin
   - jemoji
 
