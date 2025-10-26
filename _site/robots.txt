@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://hermesry.github.io/sitemap.xml
