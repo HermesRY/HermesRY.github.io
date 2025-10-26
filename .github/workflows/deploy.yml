@@ -40,10 +40,15 @@ jobs:
         npm install -g purgecss
         export JEKYLL_ENV=production
         bundle exec jekyll build --lsi
+        # Ensure GitHub Pages serves static files without re-running Jekyll
+        touch _site/.nojekyll
         purgecss -c purgecss.config.js
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
       with:
+        # Be explicit about the target branch and clean old files
+        branch: gh-pages
         folder: _site
+        clean: true
 
