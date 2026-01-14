@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work <em><a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722062" style="font-weight: 500; color: black;">SHADE-AD</a></em> was spotlighted in New York SBU News during US Healthy Aging Month for advancing AI-based early Alzheimer’s detection!
-
-<!-- <a href="https://news.stonybrook.edu/university/stony-brook-researchers-use-ai-to-advance-alzheimers-detection/" style="font-weight: 500; color: black;">SBU News</a> -->
+Our work <em>SHADE-AD</em> was spotlighted in New York <a href="https://news.stonybrook.edu/university/stony-brook-researchers-use-ai-to-advance-alzheimers-detection/" style="font-weight: 500; color: black">SBU News</a> during US Healthy Aging Month for advancing AI-based early Alzheimer’s detection!
