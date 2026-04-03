@@ -9,7 +9,7 @@ nav_order: 3
 ## Academic Service
 
 - **Reviewer**  
-  [*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT / UbiComp)*](https://dl.acm.org/journal/imwut), **2025**
+  [*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT / UbiComp)*](https://dl.acm.org/journal/imwut), **2025, 2026**
 
 - **Student Helper**  
   [Cyber-Physical Systems and Internet-of-Things Week](https://cps-iot-week2024.ie.cuhk.edu.hk/), **2024**
